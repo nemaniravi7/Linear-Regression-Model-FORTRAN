@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Linear Regression model", "Linear Regression model\Linear Regression model.vfproj", "{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Debug|x64.ActiveCfg = Debug|x64
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Debug|x64.Build.0 = Debug|x64
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Debug|x86.Build.0 = Debug|Win32
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Release|x64.ActiveCfg = Release|x64
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Release|x64.Build.0 = Release|x64
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Release|x86.ActiveCfg = Release|Win32
+		{7BE0E52D-5CA6-4D7E-BA29-7FF7A119FD18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55EDDA2-FEEB-4EBA-8BC0-222B13B61FA1}
+	EndGlobalSection
+EndGlobal
